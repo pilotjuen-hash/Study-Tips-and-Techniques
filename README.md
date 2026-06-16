@@ -24,7 +24,8 @@ This guide covers study tips and techniques that every student should know about
 <!-- [Team Member 2 Name] will write this section -->
 
 ## Effective-Study-Techniques-Active-Recall
-<!-- [Team Member 3 Name] will write this section -->
+<!-- [John Mwangi]  section -->
+Instead of re-reading lecture slides, test your memory and comprehension by quizzing yourself on concepts like data structures or algorithmic complexity.The Feynman Technique: Try to explain a difficult programming concept (like recursion or object-oriented programming) to someone else, or write it out as if you were teaching a beginner. If you stumble, you know where your gaps are.
 
 ## Smart-Debugging-Trace-your-Variables
 <!-- [Team Member 3 Name] will write this section -->
