@@ -40,10 +40,6 @@ It shifts your focus from passive consumption to active creation.
 <!-- [Team Member 3 Name] will write this section -->
 Smart
 ## -Debugging-Trace-your-Variables
-=======
-<!-- [John Mwangi]  section -->
-Instead of re-reading lecture slides, test your memory and comprehension by quizzing yourself on concepts like data structures or algorithmic complexity.The Feynman Technique: Try to explain a difficult programming concept (like recursion or object-oriented programming) to someone else, or write it out as if you were teaching a beginner. If you stumble, you know where your gaps are.
->>>>>>> b721b845f6a702b7997c625895edd00eb41dddfa
 
 [Team member](Eugene Ngugi)
   ## Smart-Debugging-Trace-your-Variables(-Debugging-Trace-your-Variables) 
