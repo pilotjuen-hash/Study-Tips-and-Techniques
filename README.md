@@ -19,7 +19,8 @@ This guide covers study tips and techniques that every student should know about
 
 ## The-Hands-On-Approach-Active-Learning-The-80-to-20 Rule
 
-[Team Member](Miguel)
+[Team Member] (Miguel)
+
 ##**The-Hands-On-Approach-Active-Learning-The-80-to-20 Rule** The 80/20 Rule is a highly effective strategy for mastering programming. 
 It shifts your focus from passive consumption to active creation.
 
